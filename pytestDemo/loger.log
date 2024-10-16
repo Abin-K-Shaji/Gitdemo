@@ -1,0 +1,4 @@
+2024-09-26 17:57:47,001:INFO:pytestDemo.test_log:info statement
+2024-09-26 17:57:47,001:WARNING:pytestDemo.test_log:something is wrong
+2024-09-26 17:57:47,001:ERROR:pytestDemo.test_log:major error occurred
+2024-09-26 17:57:47,001:CRITICAL:pytestDemo.test_log:critical issues located
