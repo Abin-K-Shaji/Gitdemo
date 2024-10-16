@@ -70,5 +70,5 @@ driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 wait.until(EC.element_to_be_clickable((By.XPATH, "(//img[@alt='Wayfarer Messenger Bag'])[1]"))).click()
 
 
-
+hellooo
 
